@@ -1,4 +1,4 @@
-<div><img src="https://uploaddeimagens.com.br/images/001/765/735/original/Logo_DSB_Final_1.png?1544119713" width="400" height="400" align="center">
+<div align="center"><img src="https://uploaddeimagens.com.br/images/001/765/735/original/Logo_DSB_Final_1.png?1544119713" width="400" height="400">
 
 # Utilizando módulo matemático em Python para gerar o nome da rede social #1 focada em Ciência de Dados!
 
